@@ -9,3 +9,8 @@
      
   2. video1-dəki animasiyanı və link-in image1-dəki hissəsini kodlayan:  
      http://specthemes.com/lumire/demo-preview/page-about-1.html
+
+  3. Əlavə linklər:  
+     https://daneden.github.io/animate.css/     
+     https://wowjs.uk/     
+     https://michalsnik.github.io/aos/
